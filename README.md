@@ -447,7 +447,10 @@ Sorularınız ve sorunlarınız için:
 
 ## 📸 Ekran Görüntüleri
 
-*(Ekran görüntüleri ekleyebilirsiniz)*
+![First Page](firstpage.jpg)
+![Second Page](secondpage.jpg)
+![Third Page](thirdpage.jpg)
+![Last Page](lastpage.jpg)
 
 ---
 
